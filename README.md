@@ -13,3 +13,8 @@ cd TMR4240-Project
 unzip vendor/MSS.zip -d src/
 find -name "__MACOSX" -exec rm -r {} \;
 ```
+- open matlab
+- navigate to `src`
+- add directory and subdirectories to path `src/MSS`
+- run `init.m`
+- open `part1.slx`
