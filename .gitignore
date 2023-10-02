@@ -23,6 +23,7 @@ codegen/
 
 # Simulink autosave extension
 *.autosave
+*.slx.original
 
 # Simulink cache files
 *.slxc
